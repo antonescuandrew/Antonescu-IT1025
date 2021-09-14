@@ -1,1 +1,12 @@
-
+### Executive Summary
+Lab 1 focuses heavily on the backround of computing as well as going over class procedures. Additionally, Lab 1 gave a solid introduction to GitHub and how to get started with a new repo. In IT, it is extremely important to understand where it all started to make sense of how far we have come, and Lab 1 dives into the earlier stages of computers, as well as modern day technology. GitHub, as mentioned in the lab, is a collaborative coding website where users can code and edit together, which helps technology advance at a faster rate.
+### Information Systems Components
+#### ATM Machine
+In an ATM machine, the hardware is the physical device you insert your debit card into. The software (which is the interface on the screen) sends the information, or data, of the card to the severs to authorize a transaction. The analysts at the data center will determine if the transaction is fraudulent by analyzing previous transactions. The transaction is either approved or declined. These series of steps are known as the process that the ATM uses.
+### GitHub
+#### Client-Server Architecture
+In a client-server architecture, the client and the server work closely with each other to provide a seemless experience. GitHub is an example of this relationship. When you open GitHub, it downloads all of the data of your repos and they show up on the client, which is the web browser in this case. As one make edits to files, it is all stored on the client side until the user clicks "commit changes", which then uploads all the changes to the server for use another time. A client is local data while the server stores data online. As for GitHub Desktop, the app would act as a client and the server would store files for use.
+#### Cloud Computing
+Cloud computing is when processes happen in the server, such as storing files to the server. GitHub is an example of cloud computing because files are stored on the servers, as well as the fact that the user must connect to the server to access the client. Another example of cloud computing is Google. All the information on Google is stored on Google's servers, and it is accessed by downloading those results to the client.
+### Conclusion
+In this unit, I learned a lot about how GitHub operates and how formatting works. I had fun learning trough trial and error and eventually figuring out how to create a repository and create files. I also learned about the history of computers and look forward to learning more as the course goes on! 
