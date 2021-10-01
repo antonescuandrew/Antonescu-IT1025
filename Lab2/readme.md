@@ -1,5 +1,5 @@
 ## Executive Summary
-null
+The purpose of Lab 2 was to go into detal how computers physically work, as well as get an insight on how computers understand information. Lab 2 specifically covers internal components such as CPUs, RAM, storage devices, as well as circuits and logic gates. Binary, decimal, and hexadecimal systers were also heavily taught during Lap 2, as well as touched on the goals of the IEEE. 
 ## Hardware
 ### Hard Drives and Memory
 #### Latency Vs. Transfer Rates
@@ -22,3 +22,4 @@ Binary processes signals that are either on or off, and modern computers can pro
 ### Hexadecimal Color Representation
 The color hexadecimal #ab00ff represents how much red, green, or blue is in the color. In this case, red=171, green=0, and blue=255. This color would especially be problematic for people who have trouble deciphering blues against one another, since the amount of blue is at its maximum.
 ## Conclusion
+In this lab, I particularly found how the CPU works to be very facinating. I really loved how intricate each step was, and learned that the CPU and RAM work very closely together. Hexadecimal was very hard for me to grasp, but I believe with some practice it will become second nature. I am excited to see more examples of where these number systems are used!
