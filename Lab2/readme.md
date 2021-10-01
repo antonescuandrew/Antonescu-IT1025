@@ -18,7 +18,7 @@ A truth table is a table that shows the output for every possible input. The AND
 The purpose of the IEEE is to innovate technology to enhance people lives and assist humanity. The IEEE focuses on ethics and the environment to further their mission to assist humanity, not harm it. The ICEE is dedicated to creating a safe environment to coexist in.
 ## Data Representation
 ### Decimal, Binary and Hexadecimal
-null
+Binary processes signals that are either on or off, and modern computers can process 64 of these "bits" at a time. While binary uses a base two system, decimal uses a base 10 system. Hexadecimal uses a base 16 system. Hexadecimal uses letter A-F to represent numbers 10-15. 
 ### Hexadecimal Color Representation
-null
+The color hexadecimal #ab00ff represents how much red, green, or blue is in the color. In this case, red=171, green=0, and blue=255. This color would especially be problematic for people who have trouble deciphering blues against one another, since the amount of blue is at its maximum.
 ## Conclusion
