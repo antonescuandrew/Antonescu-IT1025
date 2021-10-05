@@ -5,7 +5,7 @@ An operating system is required to use a piece of hardware. An operating system 
 ### ERP 
 ERP software, or Enterprise Resource Planning software, is developed to bring together an organization with one program. It uses a central database to connect all parts of the organization. All users use the same software application and edit the same database, so that every member of the organization is on the same page. Some of the most well-known ERP systems come from SAP, Oracle, and Microsoft.
 ### Problems Solved By Virtualization
-null
+A common problem in IT was that a server was dedicated to one specific task, meaning most servers are not running to their full potential. Some servers may run only at 30% of their full capacity due to being assigned only one task. Virtualization can be used to run multiple tasks on a single piece of hardware. This can be used to make the hardware or server run at it's maximum capacity, while freeing up space for other free servers to run more tasks. Virtualization helps hardware run more effectively.
 ### Role of Hypervisor
 null
 ## Python
