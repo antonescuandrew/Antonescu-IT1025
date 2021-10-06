@@ -15,10 +15,15 @@ The "pseudo-code nature of Python" refers to the fact that Python is very easy t
 A compiled language takes the entire program as its input, rather than an interpreter, which takes a single instruction as its input. A compiler generates intermediate object code, while an interpreter does not. A compiler generally executes faster. A compiler requires more memory due to its need to create object code. A compiler only needs to compile once, while an interpreter has to convert high-level languages to low-level programs at execution. Finally, a compiler displays errors once the whole program is checked, while an interpreter displays errors when each instruction is run.
 ## Careers in Computing
 ### Handshake
-null
+Handshake really caught my interest when I visited the website! I was very surprised to see that employers who were hiring were also taking questions from students! I plan to take advantage of this opportunity and gather the most information I can. It really helps to see a list of popular jobs that other students in my major have pursued. I wish I had known about this website sooner, as it really opened my eyes on all the opportunities ahead of me!
 ### Bureau of Labor Statistics
+I was also very pleased with my experience with this website, it proved to be very helpful to me! As a test, due to not knowing exactly what field I want to go into yet, I researched "Computer Systems Analysts". I believe this field may be very interesting to me! This website gives information about everything I could think of: pay, what the job does, how to become one, etc. The website even gives an average number of jobs in 2020, which was 607,800 for Computer System Analysts. This website will prove to be very useful in the upcoming years when I choose exactly what field to go into.
+### Certifications
+null
+### Certificates and Degrees
 null
 ### Co-Ops / Internships
 null
 ### Industry Associations / Student Organizations
 null
+## Summary
