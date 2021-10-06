@@ -19,11 +19,11 @@ Handshake really caught my interest when I visited the website! I was very surpr
 ### Bureau of Labor Statistics
 I was also very pleased with my experience with this website, it proved to be very helpful to me! As a test, due to not knowing exactly what field I want to go into yet, I researched "Computer Systems Analysts". I believe this field may be very interesting to me! This website gives information about everything I could think of: pay, what the job does, how to become one, etc. The website even gives an average number of jobs in 2020, which was 607,800 for Computer System Analysts. This website will prove to be very useful in the upcoming years when I choose exactly what field to go into.
 ### Certifications
-null
+I researched the CompTIA certification. This certification applies to cybersecurity and constant monitoring of the networks. I thought the test would be much more pricet to take, but it is only $370 USD. They recommend at least 4 years of experience with information security, so this is more of a long-term goal rather than a first-step. The test itself is 165 minutes, which is rather lengthy, but it is a very important test. 
 ### Certificates and Degrees
-null
+I am researching a short term certificate in Mobile Application Development. These students learn how to develop, analyze, and test mobile applications, and eventually prepare to publish apps. The total is 21 credit hours, which is around three semester's worth of work. I seem to be way more into mobile app development than I initially thought, and I believe this could be a great opportunity for me.
 ### Co-Ops / Internships
-null
+The co-op process is a very straight-forward process. First, one must participate in the co-op orientation process through the career center. One must then upload their resume and approval from a Career Coach to Handshake. After that, one will work with an Employer Relations Specialist to apply and interview with approved co-op placements. Finally, one must complete and sign a "Cooperative Education Agreement" form and register for college credit. The benefit of a co-op or intership is that the student gets hands-on experience rather than just reading about the topic. Not only does it look good for employers, but it will help students apply what they learned and have an involved experience in the field.
 ### Industry Associations / Student Organizations
-null
+The IEEE is a massive professional organization that is dedicated to advancing technology to help humanity. A huge benefit to join this organization is that it is international; over 60% of its members are from outside the U.S., meaning it is very easy to learn about new cultures. It also creates an all-inclusive space. This membership could look good for employers, all while helping out society as a whole. 
 ## Summary
