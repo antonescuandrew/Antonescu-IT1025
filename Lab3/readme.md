@@ -1,5 +1,5 @@
 ## Executive Summary
-null
+The main purpose of Lab 3 was to introduce students to software and virtualization, as well as career paths in computing. Students explored a career of their choice and researched the ins and outs of it, as well as research about co-ops and potential certificates. Additionally, Python is introduced as a pseudo-code language and students created a few programs using it. 
 ## Software
 An operating system is required to use a piece of hardware. An operating system manages the hardware resources, provides a user interface, and provides a platform for developers to create applications for. An example of an operating system Microsoft Windows. An application is a program that is used to accomplish a specific goal. An example of this is Microsoft Word, an application that was designed to create and view documents. Finally, utility software is software that will allow the user to modify the computer in some way. For example, an anti-virus program such as Avast or Webroot will remove malicious or unwanted programs. Programming software is used to write code and produce software such as Python. 
 ### ERP 
