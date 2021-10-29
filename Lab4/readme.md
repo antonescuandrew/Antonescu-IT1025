@@ -1,3 +1,5 @@
+# Executive Summary
+The purpose of Lab 4 was to further build on students' Python skills, as well as teach about file types. Students defined various terms Python uses to not only understand, but also apply their Python skills. Students were also taught about graphics and compression types, as well as various files that use these two. 
 ## Python IDLE
 The shell of Python IDLE runs code one at a time, and is a good way to test what instructions do. The file editor lets the user add code for complete programs.
 ### Python Terms
@@ -10,3 +12,5 @@ Lossless compression is when all the data from the original file is kept, wherea
 A GIF is a bitmap image format that allows for animated images, and supports up to 8 bits per pixel. A JPEG is an image format that uses a user-specified amount of lossy compression. A PNG is a bitmap image format that uses lossless compression. A PNG has either a 24 bit RGB or a 32 bit RGBA per pixel, and supports transparency.
 ## File Properties
 When accessing a file's properties, the user can see basic information such as the file size, when the file was created, and can switch the file into read-only or hidden mode. Under "details", the user can see more information about a file, such as the dimentions of an image, file location, copyright information, etc. Under the "previous versions" tab, users can see when the file was last modified. 
+# Conclusion
+Lab 4 has been my favorite lab up until this point. I feel as though defining Python terms has helped me gain a better understanding on what Python is all about. Learning the basics about coding is getting me really excited to learn more about the subject! I've always been very curious about compression methods for files, so this info answered a lot of the questions I previously had. I struggled with identifying file types, but after a few times, I got the differences down for each of the file types. I'm ecstatic to see where programming will take me in the future!
