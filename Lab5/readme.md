@@ -1,1 +1,2 @@
-test
+## Lucidchart
+My experience with Lucidchart was mostly positive. I started by hovering my cursor over all of the different shapes available to me, and was surprised to see different shapes have different meanings. I really enjoyed being able to simply click and drag the shapes to place them onto the concept map. The arrows were incredibly simple to add, but I couldn't figure out how to remove them once there. I had to start from scratch again, but I was much more familiar with the tools the second time around. Overall, I would love to use Lucidchart again! I feel as though it could be extremely helpful to learning.
