@@ -29,3 +29,4 @@ Polyalphabetic cipher uses a shift word instead of the number. The word's letter
 ## Polyalphabetic Example
 The message I chose to use is "I like computers". My shift word is "oil". The number sequence relating to "oil" is 15 9 12. As a result, the number sequence is repeated under the letters of the message. Then, each letter is shifted by the number written below it. For example, for the first "I" in the message, the number 15 is written below it. The letter is then shifted 15 letters, ending in a result of "x". This process is repeated with every letter in the message to write "x uuzn odvbjcqgb".
 ## Brute-Force
+A brute-forcce attack uses every single possible decryption key to decrypt a message. The reason why the Caesar cypher method is not effective is because there are only 66 possible encryption keys, meaning it would not take long to find the one that works. With code being easily accessible, the Caesar cypher can be cracked in a matter of seconds.
