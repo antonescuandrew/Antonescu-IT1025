@@ -1,32 +1,36 @@
-## Lucidchart
+## Executive Summary
+The purpose of Lab 5 is to dive into the topic of cybersecurity. Students learned about how data is transmitted on the internet, various networking topologies and their flaws, and how user authentication works. Students also learned how to use a website named "Lucidchart" to graph a network topology of their choice. Finally, students studied various types of encryption, as well as how these encryption methods can be cracked. 
+### Lucidchart
 My experience with Lucidchart was mostly positive. I started by hovering my cursor over all of the different shapes available to me, and was surprised to see different shapes have different meanings. I really enjoyed being able to simply click and drag the shapes to place them onto the concept map. The arrows were incredibly simple to add, but I couldn't figure out how to remove them once there. I had to start from scratch again, but I was much more familiar with the tools the second time around. Overall, I would love to use Lucidchart again! I feel as though it could be extremely helpful to learning.
-## Data Transmission
+### Data Transmission
 A packet is the foundational unit of data on the Internet. These packets sometimes partake in packet-switching, which is the process of packets being sent to different routes and then assembled when it reaches its destination. An IP Address is a unique identifying address for each device, so that the packets know which device to go to. A DNS is a directory of IP address common names, and every website has an IP address. A protocol is a set of rules placed to allow devices to communicate on the network. 
-## Network Hardware
+### Network Hardware
 A switch can learn MAC Addresses and directs the packet only to the intended port, unlike a hub, which sends the packet to all the connected ports. A router is better than a switch because it can route data from one network to another by reading IP Addresses, meaning it can connect to the Internet.
-## Network Topology
+### Network Topology
 A single point of failure is when a central point on a network fails and shuts down the entire network. The star and ring topologies experience this issue. The Wireless Mesh and Infrastructure Topologies are very similar. In the Infrastructure topology, it uses a mix of wired and wireless devices. Devices can connect directly to the switch. The switch is connected to a Wireless Access Point to broadcast a signal for wireless devices to connect. Wireless Mesh is very similar, though once a Wireless Access Point is connected to the switch, it can communicate wirelessly with other Wireless Access Points in the area, extending the signal. A Wireless Mesh Topology is better because it is very redundant, meaning if one of the Wireless Access Points go down, the rest are not affected. It provides a more reliable connection, while having the ability for the connection to reach further.
-## Network Design
+### Network Design
 My design is based off of the Infrastructure Topology. Starting off, a modem is connected to a router using a wire. This router is used to connect the computers to the Internet using a wire as well. The router is then connected to a Wireless Access Point using a wire. The Wireless Access Point allows the printer to connect wirelessly to the network.
-## NSA/CSS
+### NSA/CSS
 The NSA's role in cybersecurity prevent and remove threats to the U.S. national security systems. The NSA colaborates with different entities, such as researchers and academic teams, to provide and improve security of the internet.
-## Security Triad
+### Security Triad
 There are three distinct parts to the security triad: integrity, confidentiality, and availability. Confidentiality is the process of protecting information so that only those who are allowed to see it can access it. In the case of an amazon.com chat, it keeps the messages between the user and the recipient private, and only accessable by these two users. Integrity is the assurance that information has not been tampered with or changed in any way. In an amazon.com chat, this is the assurance that an external source did not tamper with the messages being sent between the two users. Finally, availability means that information can be accessed by the authorized user in an appropriate time frame. This means that, for amazon.com, their servers must be available 24/7 and accessible at any time. 
-## Authentication
+### Authentication
 One task that requires authentication is logging into Blackboard to do classwork. One way to convert this process into a multi-factor authentication method is by scanning the student's Tri-C ID after using the login information. Another task that requires authentication is using the fingerprint scanner on a phone. To make this a multi-factor authentication method, users could also enter the password to their phone in combination of their fingerprint. Withdrawing money from the ATM is another activity that requires authentication. While the authentication method is already multi-factor (inserting debit card, then typing PIN), the ATM could also scan the user's state ID to increase security. 
-## ACL and RBAC
+### ACL and RBAC
 The purpose of an Access Control List (ACL) and Role-Based Access Control (RBAC) is to ensure that users can only access the information and permissions that are appropriate, such as reading, modifying, deleting, etc. In an ACL, specific permissions are assigned to each user individually. ACL is simple to setup, but it is hard to mass-manage the permissions of multiple users at once. ACL also becomes harder to maintain with the addition of users. In contrast, RBAC assigns users to roles, and those roles are given permissions. This makes it easier for administrators to mass-manage the permissions of users, as well as helps manage users and roles seperately.
-## Ciphertext, Public Key and Private Key
+### Ciphertext, Public Key and Private Key
 When sending a message, the message starts off from the sender as a plaintext public key. This message is then encrypted into ciphertext, which mixes up the letters in the message to make sure no outside source can decipher this message. The ciphertext is sent through a communication channel to the recipient. The message is decrypted and appears as a plaintext private key.
-## Public Key Cryptography
+### Public Key Cryptography
 Public key encryption is extremely important, as it prevents unwanted users from decoding an encrypted message. 
-## Encryption
+### Encryption
 The Caesar Cipher encryption starts off with a base message. In this case, the starting message is "cryptography is a growing field". In order to encrypt this message, we would move the letters over a desired number in the alphabet. For example, if the number I chose was 2, any "a's" in the message would be replaced with "b's", etc. With my chosen number being two, my encrypted message is "dszquphsbqiz jt b hspxjoh gjfme".
-## Frequency Fingerprint
+### Frequency Fingerprint
 This graph shows how frequent a letter appears inside of a message and compares it to other letters' frequencies. Using the message "Frequency Fingerprint Exploration", the graph shows that the letters "e", "i", and "r" are the most frequently appearing letters in this sentence. In general, the graph shows that the letter "e" is the most frequently used letter in the English alphabet. 
-## Polyalphabetic Cipher
+### Polyalphabetic Cipher
 Polyalphabetic cipher uses a shift word instead of the number. The word's letters are then converted into the the number corresponding to how far in the alphabet the letter is. This sequence of numbers is repeated throughout the message and is placed below the actual letters of the message. Then, each letter is shifted corresponding to the number below it, making use of the Caesar Cipher encryption. This method uses more than one shift number, making it more secure and take more time to decrypt.
-## Polyalphabetic Example
+### Polyalphabetic Example
 The message I chose to use is "I like computers". My shift word is "oil". The number sequence relating to "oil" is 15 9 12. As a result, the number sequence is repeated under the letters of the message. Then, each letter is shifted by the number written below it. For example, for the first "I" in the message, the number 15 is written below it. The letter is then shifted 15 letters, ending in a result of "x". This process is repeated with every letter in the message to write "x uuzn odvbjcqgb".
-## Brute-Force
+### Brute-Force
 A brute-forcce attack uses every single possible decryption key to decrypt a message. The reason why the Caesar cypher method is not effective is because there are only 66 possible encryption keys, meaning it would not take long to find the one that works. With code being easily accessible, the Caesar cypher can be cracked in a matter of seconds.
+## Conclusion
+I had a great deal of fun with Lab 5; networking is a new-found interest of mine. It was almost satisfying learning about the different network topologies and discovering the ins-and-outs of each one. I enjoyed making my own topology as well; I found Lucidchart to be a very useful website that I plan on using more in the future. Encryption also peaked my interest, as I always wondered how messages are kept secure while texting on websites. It was very engaging using Khan Academy to learn about cipher methods! I am incredibly excited to see what is next as far as cybersecurity goes!
