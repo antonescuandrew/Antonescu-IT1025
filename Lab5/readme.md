@@ -21,7 +21,7 @@ The purpose of an Access Control List (ACL) and Role-Based Access Control (RBAC)
 ### Ciphertext, Public Key and Private Key
 When sending a message, the message starts off from the sender as a plaintext public key. This message is then encrypted into ciphertext, which mixes up the letters in the message to make sure no outside source can decipher this message. The ciphertext is sent through a communication channel to the recipient. The message is decrypted and appears as a plaintext private key.
 ### Public Key Cryptography
-Public key encryption is extremely important, as it prevents unwanted users from decoding an encrypted message. 
+Public key encryption is extremely important, as it prevents unwanted users from decoding an encrypted message; only the user with the exact private key can decrypt the message.
 ### Encryption
 The Caesar Cipher encryption starts off with a base message. In this case, the starting message is "cryptography is a growing field". In order to encrypt this message, we would move the letters over a desired number in the alphabet. For example, if the number I chose was 2, any "a's" in the message would be replaced with "b's", etc. With my chosen number being two, my encrypted message is "dszquphsbqiz jt b hspxjoh gjfme".
 ### Frequency Fingerprint
