@@ -20,3 +20,4 @@ Tim Berners-Lee is the inventor of the World Wide Web. He created the W3C to lea
 The purpose of HTML5 is to easily make web pages using a standard markup language. The purpose of CSS is to format the layout of the page. I used HTML5 to write the actual webpage and the text that appears on it. Afterwards, I used CSS to add color, a border around the text, and a background for the website. 
 ### HTML and XML 
 The difference between HTML and XML is what they were designed for. XML was designed to carry data, with a focus on what data is, while HTML was designed to display data, with a focus on how that data looks. Additionally, XML tags are not predefined, unlike HTML tags.
+### Understanding a URL
