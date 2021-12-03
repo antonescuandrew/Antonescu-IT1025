@@ -1,3 +1,5 @@
+## Executive Summary
+The purpose of Lab 7 is to dive further into file compression, as well as expand previous knowledge of Python. In this Lab, studens studied ZIP files, and the compression of vector-based images such as SVG files. Additionally, students were walked through creating attributes, methods, and objects to create a sample program. Students were tasked to define and apply numerous concepts, such as inheritance and encapsulation.
 ### Purpose of File Compression
 The purpose of a zip file is to easily group multiple files into one file. They also are compressed, so the zip file has a smaller total file size compared to the files on their own.
 ### Compression and File Size
@@ -6,3 +8,5 @@ When compressing image files, the SVG file will result in being a lot smaller th
 The attribute under the Shark class is name, since every shark has a name. The methods of the shark class are swim and be_awesome. The purpose of the constructor method is to initialize data. A class is a type of blueprint that defines a set of attributes that characterizes any object that appears in that class, while an object is an instance of that class. To instantiate an object from a class means to create and utilize the object within the class.
 ### Object Oriented and the Shark Class
 The instantilized objects of the shark class are Sammy and Stevie. Inheritance is the concept that a subclass of a class inherits the attributes of the main class. An example of this is self.name = name under the main shark class. Defining the attributes under the shark class is an example of abstraction. Defining what the object can do under the methods of a class, such as swimming and being awesome, is an example of encapsulation. 
+## Conclusion
+Lab 7 proved to be especially tricky for me; while I was creating the program with the sharks, I started to mix up the concepts. While creating the Lucidchart based on the program, I ran into trouble organizing the concept into a concept chart. I verified with the professor that I was on the right track before finalizing my chart. Other than that, I had lots of fun typing out the code and trying to process what each part of the code means. I can tell my passion for Python is growing, and I am excited to see what is next!
