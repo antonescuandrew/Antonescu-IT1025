@@ -8,3 +8,5 @@ It is important to properly define the data type of a field because each data ty
 The four "Vs" of big data are Volume, Variety, Velocity, and Variability. Volume refers to the size of the data. Variety refers to the sources of the data, such as PDFs, audio, video, etc. Velocity refers to the speed of generation of the data. Finally, variability refers to the inconsistancies in the data at times. Some technologies that have driven the increase of big data are social medias, customer feedback surveys, and staging areas for new data.
 ### RDBMS and SQL
 SQL stands for Structured Query Language. SQL is a language that allows the coder to access and manipulate databases. RDBMS is the basis of SQL and stands for Relational Database Management System. RDBMS stres data in tables to be able to be accessed by SQL.
+### SQL Injections
+SQL injections are a security threat because the hackers can run an SQL statement to retrive or destroy data from the database unknowingly. Hackers have the potential to steal passwords, user IDs, etc. using this method. Parameters can be used to reduce the possibility that SQL injections can be run.
